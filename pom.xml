@@ -27,11 +27,11 @@
 			<version>7.7.0</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>Practice-DataDriven</groupId>
-			<artifactId>practice-datadriven-sdet</artifactId>
+	<!--	<dependency>
+			<groupId>Practice-DataDriven-Amazon</groupId>
+			<artifactId>practice-datadriven-amazon-msazure</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		</dependency>-->
 	</dependencies>
 
 	<build>

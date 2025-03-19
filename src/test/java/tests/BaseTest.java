@@ -25,8 +25,8 @@ public class BaseTest {
         demoTest = new DemoTest(driver);
     }
 
-    @AfterTest
-    public void teardown() {
-        common.quitBrowser();
-    }
+//    @AfterTest
+//    public void teardown() {
+//        common.quitBrowser();
+//    }
 }

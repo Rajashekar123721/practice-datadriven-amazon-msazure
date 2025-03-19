@@ -4,6 +4,7 @@
 	<test name="AmazonTest">
 		<parameter name="browser" value="chrome" />
 		<parameter name="amazonUrl" value="https://www.amazon.in" />
+		<parameter name="productName" value="iphone 16" />
 		<classes>
 			<class name="tests.BasicValidation" />
 		</classes>
