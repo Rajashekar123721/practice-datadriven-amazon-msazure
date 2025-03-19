@@ -39,7 +39,7 @@ public class BasicValidation extends BaseTest {
 	@Parameters({"productName"})
 	@Test(priority = 3)
 	public void product_Search(String product) {
-		//demoTest = new DemoTest(driver);
+		
 		demoTest.searchProduct(product);
 		System.out.println("product search completed!!...");
 	}
